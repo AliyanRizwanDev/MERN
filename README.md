@@ -13,8 +13,7 @@ This repository contains the code for a simple CRUD (Create, Read, Update, Delet
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
