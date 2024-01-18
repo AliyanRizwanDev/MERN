@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-After installation, the application will be accessible at `http://localhost:3000`. Use the CRUD operations to interact with the data.
+After installation, the application will be accessible at `http://localhost:5555`. Use the CRUD operations to interact with the data.
 
 ## Technologies Used
 
